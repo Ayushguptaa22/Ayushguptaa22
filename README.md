@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ayushguptaa22
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning everything
+- 👀 Interested in blockchain, ui/ux and backend development
 
 
 <!---
